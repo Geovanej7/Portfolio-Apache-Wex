@@ -1,17 +1,20 @@
-# Meu Primeiro Projeto Docker + Apache 🚀  
+# Meu Projeto Docker + Apache - Bootcamp WEX/DIO 🚀  
 
-Olá! Sou um entusiasta de TI buscando minha primeira oportunidade na área. Este projeto simples demonstra minha capacidade de:  
+Projeto desenvolvido como parte do **Bootcamp End-to-End** da WEX em parceria com a DIO, onde enfrentei o desafio de:  
 
-✅ **Aprender tecnologias rápidamente**  
-✅ **Resolver problemas práticos**
-✅ **Entregar resultados**
+**"Containerizar uma aplicação web usando Docker e Apache"**  
 
-## 🛠️ Tecnologias Usadas  
+## 🌟 O Que Este Projeto Demonstra  
+- **Capacidade de aprendizagem**: Dominei Docker/Apache durante o bootcamp  
+- **Resolução de desafios técnicos**: Cumpri os requisitos do projeto proposto  
+- **Prontidão para o mercado**: Apliquei conceitos de DevOps na prática  
+
+## 🛠️ Tecnologias Utilizadas  
 - Docker (containerização)  
-- Apache (servidor web)  
-- HTML/CSS/JS (frontend básico)  
+- Apache HTTP Server  
+- HTML/CSS básico  
 
-## ⚡ Como Executar  
+## ⚡ Execução em 3 Passos  
 ```bash
 git clone https://github.com/Geovanej7/Portfolio-Apache-Wex.git
 cd Portfolio-Apache-Wex
