@@ -5,9 +5,9 @@ Projeto desenvolvido como parte do **Bootcamp End-to-End** da WEX em parceria co
 **"Containerizar uma aplicação web usando Docker e Apache"**  
 
 ## 🌟 O Que Este Projeto Demonstra  
-- **Capacidade de aprendizagem**: Dominei Docker/Apache durante o bootcamp  
-- **Resolução de desafios técnicos**: Cumpri os requisitos do projeto proposto  
-- **Prontidão para o mercado**: Apliquei conceitos de DevOps na prática  
+- **Capacidade de aprendizagem**
+- **Resolução de desafios técnicos**
+- **Prontidão para o mercado**
 
 ## 🛠️ Tecnologias Utilizadas  
 - Docker (containerização)  
@@ -19,3 +19,8 @@ Projeto desenvolvido como parte do **Bootcamp End-to-End** da WEX em parceria co
 git clone https://github.com/Geovanej7/Portfolio-Apache-Wex.git
 cd Portfolio-Apache-Wex
 docker-compose up -d
+```
+## 👀 Para visualizar
+### acesse um dos endereços abaixo no seu navegador:
+- http://localhost
+- http://<IP_DA_SUA_MAQUINA> (caso esteja rodando em uma máquina virtual ou em outra máquina na rede).
