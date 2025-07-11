@@ -1,6 +1,6 @@
 # Meu Projeto Docker + Apache - Bootcamp WEX/DIO 🚀  
 
-Projeto desenvolvido como parte do **Bootcamp End-to-End** da WEX em parceria com a DIO, onde enfrentei o desafio de:  
+Projeto proposto pelo professor Denilson Bonatti como parte do **Bootcamp End-to-End** da WEX em parceria com a DIO, onde enfrentei o desafio de:  
 
 **"Containerizar uma aplicação web usando Docker e Apache"**  
 
