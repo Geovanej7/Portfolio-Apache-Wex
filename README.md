@@ -10,9 +10,11 @@ Projeto desenvolvido como parte do **Bootcamp End-to-End** da WEX em parceria co
 - **Prontidão para o mercado**
 
 ## 🛠️ Tecnologias Utilizadas  
+- Virtual Box
+- Ubuntu Server
 - Docker (containerização)  
 - Apache HTTP Server  
-- HTML/CSS básico  
+- HTML/CSS/JS básico  
 
 ## ⚡ Execução em 3 Passos  
 ```bash
